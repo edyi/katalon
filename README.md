@@ -10,4 +10,4 @@
   + invete https://docs.katalon.com/katalon-analytics/docs/user-management.html
 
 - Links
-  - (TestOps Dashboard)[https://analytics.katalon.com/home]
+  - [TestOps Dashboard](https://analytics.katalon.com/home)
