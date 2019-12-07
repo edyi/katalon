@@ -6,4 +6,8 @@
 + activate to start.
   + Required to create Organizations (TestOps)
   + [from here](https://analytics.katalon.com/home)
-  
+  + Create Organizations, Team and Users.
+  + invete https://docs.katalon.com/katalon-analytics/docs/user-management.html
+
+- Links
+  - (TestOps Dashboard)[https://analytics.katalon.com/home]
